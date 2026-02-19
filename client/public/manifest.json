@@ -1,0 +1,35 @@
+{
+  "short_name": "LoveBumble",
+  "name": "Love Bumble – AI-Powered Donation-Based Dating Platform",
+  "description": "Connect ethically and securely with Love Bumble, the AI-powered donation-based dating platform.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "icons/icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#FF3864",
+  "background_color": "#FFFFFF",
+  "orientation": "portrait-primary",
+  "categories": ["social", "dating", "community"],
+  "lang": "en-US"
+}
